@@ -12,8 +12,6 @@
 
 ![](../.gitbook/assets/m7-1.png)
 
-![](../.gitbook/assets/m7-2%20%281%29.png)
-
 ![&#x521B;&#x5EFA;&#x65B0;&#x89D2;&#x8272;/&#x5B50;&#x5708;](../.gitbook/assets/m7-2.png)
 
 {% hint style="info" %}
