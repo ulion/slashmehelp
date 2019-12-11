@@ -19,6 +19,7 @@
   * [1.1 注册](kai-shi-me-zhi-lv/zhu-ce.md)
   * [1.2 个人设置](kai-shi-me-zhi-lv/ge-ren-she-zhi.md)
   * [1.3 微信/企业微信第三方登录](kai-shi-me-zhi-lv/1.3-wei-xin-qi-ye-wei-xin-di-san-fang-deng-lu.md)
+  * [1.4 企业微信伙伴进出设置](kai-shi-me-zhi-lv/1.4-qi-ye-wei-xin-huo-ban-jin-chu-she-zhi.md)
 * [2. 建立根圈子（圈圈）](gen-quan-zi/README.md)
   * [2.1 创建根圈](gen-quan-zi/chuang-jian-gen-quan-zi.md)
   * [2.2 了解根圈（主页及界面）](gen-quan-zi/le-jie-quan-zi-zhu-ye-ji-jie-mian.md)
