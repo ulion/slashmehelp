@@ -128,7 +128,7 @@ description: /me产品更新发布都在这里啦。
 
 ### 新功能
 
-* 在网页端支持[火花功能](wo-xie-gang-app/3.-wo-de-huo-hua.md)
+* 在网页端支持[火花功能](wo-xie-gang-app/3.-zi-zhu-xie-zuo-yu-ren-wu-guan-li/3.-wo-de-huo-hua.md)
 
 ![](.gitbook/assets/screenshot-2019-11-01-at-13.45.24.png)
 
