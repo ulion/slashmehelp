@@ -62,7 +62,8 @@
   * [6. 更多设置](wo-xie-gang-app/12.-geng-duo-she-zhi.md)
 * [常见问题](chang-jian-wen-ti-1.md)
 * [繁荣进化组织基本框架 ❤️](fan-rong-jin-hua-zu-zhi-ji-ben-kuang-jia.md)
-* [联系我们 📞](lian-xi-wo-men.md)
+* [付费咨询 📞](lian-xi-wo-men.md)
+* [联系我们](lian-xi-wo-men-1.md)
 * [资源下载](zi-yuan-xia-zai.md)
 * [产品更新日志](chan-pin-geng-xin-ri-zhi.md)
 
