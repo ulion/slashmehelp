@@ -36,8 +36,6 @@ description: 更多问题？了解价格详情? 一对一线上产品介绍？�
 
 请联系我们的客服宝宝完成付费相关操作，扫描二维码或者邮件，电话都可以找到我们哦！付费完成后，系统会有管理员为已经付费的工作台开启相应的服务。
 
-### \*\*\*\*
-
 ### **想了解更多？**[**💓**](https://emojipedia.org/beating-heart/)
 
 [/me 官网 -&gt; slashme.com](https://www.slashme.com/)
