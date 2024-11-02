@@ -4,9 +4,7 @@ description: 由Circleplus 作为/me 我斜杠的研究团队，基于组织进�
 
 # 繁荣进化组织基本框架 ❤️
 
-[下载PDF](https://cdn.slashme.com/CirclePlus_Framework_2.0.pdf)
+[下载PDF](https://cdn.slashme.com/CirclePlus\_Framework\_2.0.pdf)
 
-{% embed url="https://cdn.slashme.com/CirclePlus\_Framework\_2.0.pdf" %}
-
-
+{% embed url="https://cdn.slashme.com/CirclePlus_Framework_2.0.pdf" %}
 

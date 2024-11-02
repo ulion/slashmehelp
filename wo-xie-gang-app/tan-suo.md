@@ -10,13 +10,12 @@
 
 第一步，点击app端下方导航“根圈“，在新的页面上点击“探索”，可以看到目前开放的空间。
 
-![&#x63A2;&#x7D22;&#x9875;&#x9762;](../.gitbook/assets/screenshot-2019-10-29-at-14.23.19.png)
+![探索页面](<../.gitbook/assets/Screenshot 2019-10-29 at 14.23.19.png>)
 
 第二步，点击任意一个根圈子，可以进入详细了解更多。
 
-![&#x5F00;&#x653E;&#x6839;&#x5708;&#x5185;&#x9875;](../.gitbook/assets/screenshot_20191204-141033.jpg)
+![开放根圈内页](../.gitbook/assets/Screenshot\_20191204-141033.jpg)
 
 ### 如何把我的根圈子设置为开放？
 
 目前还不支持用户自己把根圈子设置为开放。我们鼓励更多的用户把自己优秀的圈子亮出来。如有需要，请联系/me 客服小姐姐：wechat: iloveslashme 或者 help@slashme.com
-

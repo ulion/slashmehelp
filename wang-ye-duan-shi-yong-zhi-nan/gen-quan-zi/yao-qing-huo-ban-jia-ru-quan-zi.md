@@ -6,15 +6,15 @@
 
 一：在根圈子卡片上点击小人按钮添加
 
-![&#x6839;&#x5708;&#x5B50;&#x5361;&#x7247;&#x4E0A;&#x9080;&#x8BF7;](../../.gitbook/assets/gen-quan-31.png)
+![根圈子卡片上邀请](../../.gitbook/assets/跟圈3-1.png)
 
 二： 直接在根圈子主页伙伴显示页面，点击“**添加伙伴**" 按钮
 
-![&#x6839;&#x5708;&#x5B50;&#x4E3B;&#x9875;&#x4E0B;&#x76F4;&#x63A5;&#x9080;&#x8BF7;](../../.gitbook/assets/genquan3-2.png)
+![根圈子主页下直接邀请](../../.gitbook/assets/genquan3-2.png)
 
 三：点击根圈子主页右上角 “圈子设置” 功能键，进入圈子设置页面，点击“**邀请用户**”
 
-![&#x6839;&#x5708;&#x5B50;&#x8BBE;&#x7F6E;&#x9875;&#x4E0B;&#x9080;&#x8BF7;](../../.gitbook/assets/genquan3-3.png)
+![根圈子设置页下邀请](../../.gitbook/assets/genquan3-3.png)
 
 ### 如何邀请？
 
@@ -24,7 +24,7 @@
 * 复制邀请链接后通过其他方式发给受邀请人，比如邮件，其他沟通工具等。
 * 直接添加受邀请人的邮箱地址。
 
-![&#x7528;&#x6237;&#x9080;&#x8BF7;&#x754C;&#x9762;](../../.gitbook/assets/genquan3-4.png)
+![用户邀请界面](../../.gitbook/assets/genquan3-4.png)
 
 {% hint style="info" %}
 关于邀请用户的权限相关问题，请参考章节：[圈子的权限管理](../shi-yong-shou-ce/quan-zi-li-de-yong-hu-quan-xian.md)
@@ -48,5 +48,4 @@
 
 点击圈子主页右上角 **“圈子设置”** 功能键，进入圈子设置页面-用户
 
-![&#x67E5;&#x770B;&#x5708;&#x5B50;&#x4F19;&#x4F34;&#x4FE1;&#x606F;](../../.gitbook/assets/genquan3-6.png)
-
+![查看圈子伙伴信息](../../.gitbook/assets/genquan3-6.png)
